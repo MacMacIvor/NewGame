@@ -1,1 +1,2 @@
 # NewGame
+avoid
